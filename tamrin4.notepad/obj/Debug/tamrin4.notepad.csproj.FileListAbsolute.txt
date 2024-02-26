@@ -1,0 +1,10 @@
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\bin\Debug\tamrin4.notepad.exe.config
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\bin\Debug\tamrin4.notepad.exe
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\bin\Debug\tamrin4.notepad.pdb
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.csprojResolveAssemblyReference.cache
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.Form1.resources
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.Properties.Resources.resources
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.csproj.GenerateResource.Cache
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.exe
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.pdb
+E:\university\c#\my cods\tamrin4.notepad\tamrin4.notepad\obj\Debug\tamrin4.notepad.FrmFind.resources
